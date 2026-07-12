@@ -1,0 +1,7 @@
+{
+  "name": "CityEats Kenya",
+  "description": "A mobile-first, accessible food delivery application tailored for the Kenyan market featuring M-Pesa integration and offline-resilient UX.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
